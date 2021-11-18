@@ -3,8 +3,6 @@
 Application Url: 
 https://elegant-ride-1f9f17.netlify.app/
 
-References:
-C:\Users\rathd\Documents\React\Food-receipe-app.txt
 
 
 
