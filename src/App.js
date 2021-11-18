@@ -56,6 +56,7 @@ function App() {
           recipes.map((recipe, index) => {
             return <RecipeTile key={index} recipe={recipe} />;
           })
+
         }
       </div >
 
