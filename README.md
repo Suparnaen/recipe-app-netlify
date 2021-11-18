@@ -1,3 +1,13 @@
+
+
+Application Url: 
+https://elegant-ride-1f9f17.netlify.app/
+
+References:
+C:\Users\rathd\Documents\React\Food-receipe-app.txt
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
