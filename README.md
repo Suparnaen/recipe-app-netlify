@@ -1,7 +1,7 @@
 
 
 Application Url: 
-https://elegant-ride-1f9f17.netlify.app/
+https://react-receipe-application.netlify.app/
 
 
 
